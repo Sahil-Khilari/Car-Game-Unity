@@ -38,13 +38,16 @@ The game is available for **Windows PC** and also as a **web version (Itch.io / 
 ---
 
 ## Folder Structure (Only for Windows version)
-├─ WindowsBuild/ # Windows playable build | (create any folder with name)
- ├─ D3D12/
- ├─ MonoBleedingEdge/
- ├─ My project_Data/
- ├─ My project.exe
- ├─ UnityCrashHandler64.exe
- └─ UnityPlayer.dll
+Car-Game-Unity/
+├─ WindowsBuild/ # Windows playable build
+│ ├─ D3D12/
+│ ├─ MonoBleedingEdge/
+│ ├─ My project_Data/
+│ ├─ My project.exe
+│ ├─ UnityCrashHandler64.exe
+│ └─ UnityPlayer.dll
+├─ cargame.zip # Web version
+└─ README.md # Documentation
 
 ---
 
